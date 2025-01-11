@@ -2,10 +2,18 @@ body{
     background-color: green;
 }
 
-h1, h5{
+h1, h5, hr{
     color: burlywood;
 }
 
 h3{
     color: rebeccapurple;
 }
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blueviolet;
+}
+#tole{
+    font-weight: bold;
+    color: brown;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
