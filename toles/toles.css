@@ -17,3 +17,8 @@ p{
     font-weight: bold;
     color: brown;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.bell, .old.bell{
+    display: inline;
+    border-radius: 25px;
+}
