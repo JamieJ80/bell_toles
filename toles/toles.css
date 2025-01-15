@@ -1,5 +1,9 @@
 body{
     background-color: green;
+    text-align: center;
+}
+input{
+    text-align: center;
 }
 
 h1, h5, hr{
@@ -13,6 +17,10 @@ p{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: blueviolet;
 }
+button{
+    width: 100px;
+    height: 20px;
+}
 #tole{
     font-weight: bold;
     color: brown;
@@ -21,4 +29,15 @@ p{
 .bell, .old.bell{
     display: inline;
     border-radius: 25px;
+}
+.wow{
+    color: blue;
+    font-family: fantasy;
+}
+.mandem{
+    color: brown;
+
+}
+.question{
+    width: 200px;
 }
