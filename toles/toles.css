@@ -29,6 +29,9 @@ button{
 .bell, .old.bell{
     display: inline;
     border-radius: 25px;
+    opacity: 75%;
+    margin-left: 30px;
+    margin-right: 30px;
 }
 .wow{
     color: blue;
